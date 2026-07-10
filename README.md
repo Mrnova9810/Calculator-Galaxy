@@ -7,7 +7,7 @@ The same project will also be rebuilt using **React** to practice component-base
 
 ## Preview
 
-![Calculator Preview](./images/calculator.png)
+![Calculator Preview](./images/Calculator.png)
 
 ## Tech Stack
 
