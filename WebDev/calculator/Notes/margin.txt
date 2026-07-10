@@ -1,0 +1,10 @@
+margin: top right bottom left
+it's a space outside the border  it's controls
+
+
+//margin: 20px 
+then all sides becomes 25px
+
+// margin: ___ , ___ 
+first: is for top , bottom
+second: right left 

@@ -1,0 +1,4 @@
+   box-sizing: border-box;
+   this makes layout predictable
+   If I have define somebox width =100px 
+   and add padding , margin border + content all combine my box gonna take what I have define ( 100 px width).

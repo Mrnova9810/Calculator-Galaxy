@@ -1,0 +1,63 @@
+components can have there own maring define / padding
+so if We are not geting what we want check make margin values of those component 0 and adjust based on that!
+
+
+
+position controls 
+
+we have property position which can help ous to place elemants where we want!
+
+position: _______?? 
+
+1. Static  it's default it's place component in orders it's writer
+2. relative:  it's used for it we want to move from it's starting position to some dirction
+      
+      ***"Hey browser, any absolute children inside me 
+      should use my box as their coordinate system."***
+
+
+3. absolute: the elemant is removed from it's natural flow and 
+positioned at relative to it's nearest positioed parent.
+
+parent
++----------------+
+|                |
+|                |
+|          child |
++----------------+
+
+// code example
+.parent {
+    position: relative;
+}
+
+.child {
+    position: absolute;
+    bottom: 10px;
+    right: 20px;
+}
+
+
+
+4. fixed: the element fixed relative to the browser window.
+
+Browser window
++----------------+
+|                |
+|                |
+|                |
+|          [💬]  |
++----------------+
+button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+
+5.sticky: used when we want to move our element based on parent motion, 
+and wanted elemant move with parent but say fixed positioned with parent 
+relative to parent POV-->  elemants are fixed.
+
+
+

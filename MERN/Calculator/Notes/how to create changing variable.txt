@@ -1,0 +1,6 @@
+   const [expression, setExpression] = useState("");
+// expression is variable
+// setExpression is setter function who set's the value of expression && tell react that value is change
+
+// like setExpression("__");  yeah  setExpression(expression + "__" )
+  

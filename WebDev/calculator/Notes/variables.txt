@@ -1,0 +1,5 @@
+let: Used when the value can change.
+
+const: when value dont change
+
+var: older way to creat variables  // not prefered!

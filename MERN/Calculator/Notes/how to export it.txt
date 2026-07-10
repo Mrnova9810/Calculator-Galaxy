@@ -1,0 +1,29 @@
+export default _______; --> __ in here name of component 
+
+
+// if we have 1 export the then we use default for exporting that
+
+// but if we wanna export multiple functions --> then use 
+
+#1
+export{
+    ____ , 
+    ____ ,
+    ____ ,
+    ____ ,
+
+ };
+
+
+ #2 
+ export functions ____1 { 
+     // Code part
+ };
+  export functions ___2 { 
+     // Code part
+ };
+  export functions ____3 { 
+     // Code part
+ };
+
+

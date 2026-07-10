@@ -1,0 +1,2 @@
+ if we use "./     " --> that means look in side the folder we are in --> like this notes folder.
+ and "../    " -- that means look in whole structure. 
